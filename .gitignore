@@ -112,3 +112,5 @@ venv.bak/
 
 # gcloud service account
 service-account.json
+
+tags*
